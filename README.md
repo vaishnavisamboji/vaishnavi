@@ -15,16 +15,6 @@
 
 ---
 
-### 👨‍💻 All of my projects are available at:
-[https://vaishnavisamboji.netlify.app/](https://vaishnavisamboji.netlify.app/)
-
----
-
-### 📫 How to reach me:
-- Email: **sambojivaishnavi@gmail.com**
-
----
-
 ### ⚡ Fun Fact:
 If my life was a game, debugging would be the boss level.
 
