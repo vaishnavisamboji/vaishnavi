@@ -75,7 +75,9 @@ If my life was a game, debugging would be the boss level.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavisamboji&theme=dracula&hide_border=true" alt="Vaishnavi's GitHub Streak" />
 </div>
+
 ---
+
 <h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavi-samboji/" target="_blank">
@@ -85,4 +87,5 @@ If my life was a game, debugging would be the boss level.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
+
 ---
