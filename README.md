@@ -8,11 +8,8 @@
 ---
 
 ### 🌱 I’m currently learning:
-- Apache Hadoop
-- Kafka
-- Grafana
-- Machine Learning
-
+- Apache Hadoop, Kafka, Grafana, Machine Learning
+  
 ---
 
 ### ⚡ Fun Fact:
