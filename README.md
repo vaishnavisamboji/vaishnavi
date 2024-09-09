@@ -17,18 +17,6 @@ If my life was a game, debugging would be the boss level.
 
 ---
 
-<h3 align="center">🔗 Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaishnavi-samboji/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/evaaa_3" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
-
----
-
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank">
@@ -87,5 +75,14 @@ If my life was a game, debugging would be the boss level.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavisamboji&theme=dracula&hide_border=true" alt="Vaishnavi's GitHub Streak" />
 </div>
-
-Updated GitHub Profile README
+---
+<h3 align="center">🔗 Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishnavi-samboji/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/evaaa_3" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
+---
