@@ -100,3 +100,5 @@ If my life was a game, debugging would be the boss level.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavisamboji&theme=dracula&hide_border=true" alt="Vaishnavi's GitHub Streak" />
 </div>
+
+Updated GitHub Profile README
