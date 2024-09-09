@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Samboji</h1>
 <h3 align="center">A passionate data analyst student at San Jose State University</h3>
+![Data Analytics GIF](./data%20analytics.gif)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaishnavisamboji&label=Profile%20views&color=ff69b4&style=flat-square" alt="vaishnavisamboji" />
