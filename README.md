@@ -9,8 +9,6 @@
 
 ### 🌱 I’m currently learning:
 - Apache Hadoop, Kafka, Grafana, Machine Learning
-  
----
 
 ### ⚡ Fun Fact:
 If my life was a game, debugging would be the boss level.
