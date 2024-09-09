@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Samboji</h1>
 <h3 align="center">A passionate data analyst student at San Jose State University</h3>
-![Data Analytics GIF](./data%20analytics.gif)
+![Data Analytics GIF](./assets/data_analytics.gif)
 
 
 <p align="center">
